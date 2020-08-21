@@ -2,9 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-<p><em>Bachelor in Information Systems at <a href="https://ufsc.br/">UFSC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Bachelor in Information Systems at <a href="https://ufsc.br/">UFSC</a>
+</br>Frontend Developer
+</em>
+</p>
 
 [![Linkedin: cinthyaweigel](https://img.shields.io/badge/-cinthyaweigel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cinthyaweigel/)](https://www.linkedin.com/in/cinthyaweigel/)
 
