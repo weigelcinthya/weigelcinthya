@@ -15,8 +15,8 @@
 ```javascript
 const cinthya = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Angular, Sass]
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, AngularJs, Sass, Git, Google App Engine]
 }
 ```
 
