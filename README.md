@@ -25,4 +25,12 @@ const cinthya = {
 
 
 
-<span style="color:lightgray;font-size:10px">Theme by [@Thaiane](https://github.com/Thaiane)</span>
+
+
+
+
+
+
+
+
+###### Theme by [@Thaiane](https://github.com/Thaiane)
