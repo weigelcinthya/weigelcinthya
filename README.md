@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <p><em>Bachelor in Information Systems at <a href="https://ufsc.br/">UFSC</a>
-</br>Frontend Developer
+</br>Frontend Developer at Valtech
 </em>
 </p>
 
