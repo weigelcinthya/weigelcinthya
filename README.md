@@ -1,7 +1,5 @@
 <h2> Hi, I'm Cinthya Weigel! <img src="https://media.giphy.com/media/StdMpulVYA4AWpgEdl/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-
 <p><em>Bachelor in Information Systems at <a href="https://ufsc.br/">UFSC</a>
 </br>Frontend Developer at Valtech
 </em>
@@ -12,7 +10,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+About me...
 
 
 ```javascript
@@ -23,16 +21,5 @@ const cinthya = {
 }
 ```
 
-<p>I love to meet new people and if you want to say hi! email me @ weigelcinthya@gmail.com.</p>
 
 
-
-
-
-
-
-
-
-
-
-###### Theme by [@Thaiane](https://github.com/Thaiane)
