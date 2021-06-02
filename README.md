@@ -17,7 +17,7 @@ About me...
 const cinthya = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, AngularJs, Sass, Git, Google App Engine]
+  tools: [Vue, React, AngularJs, Sass, Git, Google App Engine]
 }
 ```
 
