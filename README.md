@@ -5,8 +5,8 @@
 </em>
 </p>
 
-<a href="https://www.linkedin.com/in/cinthyaweigel/"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20"></a>
-<a href="https://codepen.io/weigelcinthya"><img src="https://i0.wp.com/blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Small.png?resize=125%2C125&ssl=1" width="20"></a>
+<a href="https://www.linkedin.com/in/cinthyaweigel/">Linkedin</a> |
+<a href="https://codepen.io/weigelcinthya">Codepen</a>
 
 
 
